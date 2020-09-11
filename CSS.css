@@ -1,0 +1,51 @@
+{
+	background-color: #E5DBE2;
+}
+h3
+table, td{
+	border: none;
+}
+{font-family: "bebas neues";
+}
+h2
+{font-family: "bebas neues";
+}
+input
+{background-color: #E5DBE2;
+	color:black;
+	padding: 24 px 28px;
+	border: none;
+	border-radius: 2px;
+	cursor: pointer;
+}
+
+input[type=submit]:hover {
+	background-color:#E5DBE2;
+}
+
+.container {
+	border-radius: 5px;
+	background-color: #E5DBE2;
+	padding: 24px;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+table th {
+	text-align: center;
+	background-color: #E5DBE2;
+	color: #000000;
+	padding: 0px 0px;
+}
+h4 {
+	background-color: #E5DBE2;
+	font-family: "Bebas Neues";
+	font-size: 18pt;
+}
+.letrachica{
+	font-size: 18pt;
+}
+
+
